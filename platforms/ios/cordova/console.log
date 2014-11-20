@@ -1,0 +1,59 @@
+2014-11-20 15:52:33.353 Hello World[50465:3954612] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Data/Application/5D666930-90D4-46E7-BA4C-6383F64E7560/Library/Cookies/Cookies.binarycookies
+2014-11-20 15:52:33.491 Hello World[50465:3954612] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-20 15:52:33.492 Hello World[50465:3954612] Multi-tasking -> Device: YES, App: YES
+2014-11-20 15:52:33.525 Hello World[50465:3954612] Unlimited access to network resources
+2014-11-20 15:52:33.533 Hello World[50465:3954612] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-20 15:52:35.747 Hello World[50465:3954612] Resetting plugins due to page load.
+2014-11-20 15:52:35.909 Hello World[50465:3954612] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/405B7951-E777-4652-A3C1-C81F9B9215B3/Hello%20World.app/www/index.html
+2014-11-20 17:46:32.121 Hello World[51775:3988442] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Data/Application/42EB4507-06AB-47FD-A72A-68BA2444BC4E/Library/Cookies/Cookies.binarycookies
+2014-11-20 17:46:32.227 Hello World[51775:3988442] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-20 17:46:32.227 Hello World[51775:3988442] Multi-tasking -> Device: YES, App: YES
+2014-11-20 17:46:32.249 Hello World[51775:3988442] Unlimited access to network resources
+2014-11-20 17:46:32.264 Hello World[51775:3988442] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-20 17:46:33.046 Hello World[51775:3988442] Resetting plugins due to page load.
+2014-11-20 17:46:34.355 Hello World[51775:3988442] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/C0866242-A427-4246-A34D-46ABD94F6636/Hello%20World.app/www/index.html
+2014-11-20 17:46:40.292 Hello World[51775:3988442] locationManager::didFailWithError (null)
+2014-11-20 17:46:57.941 Hello World[51775:3988510] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-11-20 17:48:23.785 Hello World[52025:3990492] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Data/Application/4F27AC8E-FDFA-4D7A-9D2B-8CA27F163B5E/Library/Cookies/Cookies.binarycookies
+2014-11-20 17:48:23.873 Hello World[52025:3990492] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-20 17:48:23.874 Hello World[52025:3990492] Multi-tasking -> Device: YES, App: YES
+2014-11-20 17:48:23.880 Hello World[52025:3990492] Unlimited access to network resources
+2014-11-20 17:48:23.883 Hello World[52025:3990492] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-20 17:48:24.193 Hello World[52025:3990492] Resetting plugins due to page load.
+2014-11-20 17:48:24.502 Hello World[52025:3990492] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/1301B18A-DC15-4BCC-A77C-3B0098E78061/Hello%20World.app/www/index.html
+2014-11-20 17:48:24.530 Hello World[52025:3990492] locationManager::didFailWithError (null)
+2014-11-20 17:48:58.314 Hello World[52025:3990567] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-11-20 17:50:04.802 Hello World[52025:3991467] Terminating since there is no system app.
+2014-11-20 17:50:47.879 Hello World[52283:3992643] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Data/Application/9887AED7-EDB9-424D-B70D-21C5B43F0058/Library/Cookies/Cookies.binarycookies
+2014-11-20 17:50:47.976 Hello World[52283:3992643] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-20 17:50:47.977 Hello World[52283:3992643] Multi-tasking -> Device: YES, App: YES
+2014-11-20 17:50:47.984 Hello World[52283:3992643] Unlimited access to network resources
+2014-11-20 17:50:47.988 Hello World[52283:3992643] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-20 17:50:48.361 Hello World[52283:3992643] Resetting plugins due to page load.
+2014-11-20 17:50:48.649 Hello World[52283:3992643] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/64BFFAD5-0237-420F-AF0D-B70FC6AEAF0E/Hello%20World.app/www/index.html
+2014-11-20 17:50:48.684 Hello World[52283:3992643] locationManager::didFailWithError (null)
+2014-11-20 17:52:27.364 Hello World[52283:3992719] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
