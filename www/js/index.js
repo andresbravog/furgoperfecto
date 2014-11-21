@@ -33,6 +33,8 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
+        mapaFurgoperfecto.initializeMap()
+        alert('wtf!');
         navigator.geolocation.getCurrentPosition(app.onSuccess, app.onError);
         app.receivedEvent('deviceready');
     },
@@ -50,17 +52,27 @@ var app = {
     // Current location was found
     // Show de maps
     onSuccess: function(position) {
+        alert('position!');
         var longitude = position.coords.longitude;
         var latitude = position.coords.latitude;
+        alert('longitude: ' + longitude + ' \nlatitude: ' + latitude + '\n')
         var latLong = new google.maps.LatLng(latitude, longitude);
+        // var latLong = new google.maps.LatLng(-41.3996433, 2.151494);
 
-        var mapOptions = {
-            center: latLong,
-            zoom: 16,
-            mapTypeId: google.maps.mapTypeId.ROADMAP
+        if( mapaFurgoperfecto.map == undefined ) {
+          alert('not ready!');
+          setTimeout(app.onSuccess(position), 1000);
+          return;
         };
 
-        var map = new google.maps.Map(document.getElementById("getlocation"), mapOptions);
+        var infowindow = new google.maps.InfoWindow({
+           map: mapaFurgoperfecto.map,
+           position: latLong,
+           content: 'Currrent location'
+        });
+
+        mapaFurgoperfecto.map.setCenter(latLong);
+        mapaFurgoperfecto.map.setZoom(16);
     },
     // Current location failed
     // alert the error message
