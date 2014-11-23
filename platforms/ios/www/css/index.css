@@ -125,3 +125,15 @@ html, body {
     width: 640px;
     height: 1136px;
 }
+
+button.get_my_location {
+    background: url('../img/get_my_location_icon.png');
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    z-index: 9999;
+    bottom: 25px;
+    right: 10px;
+    border: none;
+}

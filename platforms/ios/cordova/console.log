@@ -593,3 +593,329 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-11-21 18:10:35.379 Hello World[86027:4294453] Resetting plugins due to page load.
 2014-11-21 18:10:35.380 Hello World[86027:4294453] IAB.close() called but it was already closed.
 2014-11-21 18:10:36.261 Hello World[86027:4294453] Finished load of: http://www.furgovw.org/index.php
+2014-11-21 18:25:46.326 Hello World[86601:4302841] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-21 18:25:46.328 Hello World[86601:4302841] Multi-tasking -> Device: YES, App: YES
+2014-11-21 18:25:46.334 Hello World[86601:4302841] Unlimited access to network resources
+2014-11-21 18:25:46.338 Hello World[86601:4302841] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-21 18:25:46.633 Hello World[86601:4302841] [CDVTimer][file] 19.670010ms
+2014-11-21 18:25:46.633 Hello World[86601:4302841] [CDVTimer][TotalPluginStartup] 19.879997ms
+2014-11-21 18:25:46.859 Hello World[86601:4302841] Resetting plugins due to page load.
+2014-11-21 18:25:47.459 Hello World[86601:4302841] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/E0DFA5B1-C4E1-4237-A911-993BD29724B3/Hello%20World.app/www/index.html
+2014-11-21 18:28:40.522 Hello World[86601:4302841] CDVWebViewDelegate: Navigation started when state=1
+2014-11-21 18:28:40.522 Hello World[86601:4302841] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-11-21 18:28:40.523 Hello World[86601:4302841] Resetting plugins due to page load.
+2014-11-21 18:28:41.555 Hello World[86601:4302841] Finished load of: http://www.furgovw.org/index.php?topic=162164.0
+2014-11-21 18:32:24.960 FurgoPerfecto[87111:4308380] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-21 18:32:24.961 FurgoPerfecto[87111:4308380] Multi-tasking -> Device: YES, App: YES
+2014-11-21 18:32:24.967 FurgoPerfecto[87111:4308380] Unlimited access to network resources
+2014-11-21 18:32:24.970 FurgoPerfecto[87111:4308380] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-21 18:32:25.226 FurgoPerfecto[87111:4308380] [CDVTimer][file] 2.418995ms
+2014-11-21 18:32:25.226 FurgoPerfecto[87111:4308380] [CDVTimer][TotalPluginStartup] 2.626002ms
+2014-11-21 18:32:25.428 FurgoPerfecto[87111:4308380] Resetting plugins due to page load.
+2014-11-21 18:32:25.772 FurgoPerfecto[87111:4308380] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/E3F7BC19-1DA3-4DB9-981B-18302C292C91/FurgoPerfecto.app/www/index.html
+2014-11-22 17:09:18.669 FurgoPerfecto[87513:4316052] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-22 17:09:18.671 FurgoPerfecto[87513:4316052] Multi-tasking -> Device: YES, App: YES
+2014-11-22 17:09:18.682 FurgoPerfecto[87513:4316052] Unlimited access to network resources
+2014-11-22 17:09:18.687 FurgoPerfecto[87513:4316052] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-22 17:09:18.998 FurgoPerfecto[87513:4316052] [CDVTimer][file] 3.775001ms
+2014-11-22 17:09:18.998 FurgoPerfecto[87513:4316052] [CDVTimer][TotalPluginStartup] 4.066050ms
+2014-11-22 17:09:19.258 FurgoPerfecto[87513:4316052] Resetting plugins due to page load.
+2014-11-22 17:09:19.692 FurgoPerfecto[87513:4316052] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/28C2F2F1-576B-47EB-B4F8-DCFAEE767975/FurgoPerfecto.app/www/index.html
+2014-11-22 17:11:22.722 FurgoPerfecto[87811:4318491] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-22 17:11:22.724 FurgoPerfecto[87811:4318491] Multi-tasking -> Device: YES, App: YES
+2014-11-22 17:11:22.733 FurgoPerfecto[87811:4318491] Unlimited access to network resources
+2014-11-22 17:11:22.745 FurgoPerfecto[87811:4318491] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-22 17:11:23.125 FurgoPerfecto[87811:4318491] [CDVTimer][file] 4.518986ms
+2014-11-22 17:11:23.126 FurgoPerfecto[87811:4318491] [CDVTimer][TotalPluginStartup] 4.826963ms
+2014-11-22 17:11:23.293 FurgoPerfecto[87811:4318491] Resetting plugins due to page load.
+2014-11-22 17:11:23.878 FurgoPerfecto[87811:4318491] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/8C80DA4E-04DD-45D4-A846-39B2947FE772/FurgoPerfecto.app/www/index.html
+2014-11-22 17:11:27.228 FurgoPerfecto[87811:4318491] THREAD WARNING: ['Geolocation'] took '11.556885' ms. Plugin should use a background thread.
+2014-11-22 17:12:04.969 FurgoPerfecto[87811:4318491] THREAD WARNING: ['InAppBrowser'] took '77.395996' ms. Plugin should use a background thread.
+2014-11-23 17:45:44.061 FurgoPerfecto[5560:4568833] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 17:45:44.063 FurgoPerfecto[5560:4568833] Multi-tasking -> Device: YES, App: YES
+2014-11-23 17:45:44.087 FurgoPerfecto[5560:4568833] Unlimited access to network resources
+2014-11-23 17:45:44.091 FurgoPerfecto[5560:4568833] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 17:45:44.497 FurgoPerfecto[5560:4568833] [CDVTimer][file] 4.462957ms
+2014-11-23 17:45:44.497 FurgoPerfecto[5560:4568833] [CDVTimer][TotalPluginStartup] 4.653037ms
+2014-11-23 17:45:44.677 FurgoPerfecto[5560:4568833] Resetting plugins due to page load.
+2014-11-23 17:45:45.171 FurgoPerfecto[5560:4568833] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/9EE20702-37FA-419B-824C-80BAD751618C/FurgoPerfecto.app/www/index.html
+2014-11-23 17:45:48.166 FurgoPerfecto[5560:4568833] locationManager::didFailWithError (null)
+2014-11-23 17:46:14.520 FurgoPerfecto[5794:4569747] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 17:46:14.522 FurgoPerfecto[5794:4569747] Multi-tasking -> Device: YES, App: YES
+2014-11-23 17:46:14.528 FurgoPerfecto[5794:4569747] Unlimited access to network resources
+2014-11-23 17:46:14.533 FurgoPerfecto[5794:4569747] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 17:46:14.864 FurgoPerfecto[5794:4569747] [CDVTimer][file] 5.941987ms
+2014-11-23 17:46:14.864 FurgoPerfecto[5794:4569747] [CDVTimer][TotalPluginStartup] 6.155968ms
+2014-11-23 17:46:15.071 FurgoPerfecto[5794:4569747] Resetting plugins due to page load.
+2014-11-23 17:46:15.502 FurgoPerfecto[5794:4569747] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/5D4B5EE0-085E-4476-AEA1-FC22212EBD59/FurgoPerfecto.app/www/index.html
+2014-11-23 17:46:18.106 FurgoPerfecto[5794:4569747] locationManager::didFailWithError (null)
+2014-11-23 17:48:22.808 FurgoPerfecto[6072:4571239] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 17:48:22.809 FurgoPerfecto[6072:4571239] Multi-tasking -> Device: YES, App: YES
+2014-11-23 17:48:22.815 FurgoPerfecto[6072:4571239] Unlimited access to network resources
+2014-11-23 17:48:22.818 FurgoPerfecto[6072:4571239] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 17:48:23.087 FurgoPerfecto[6072:4571239] [CDVTimer][file] 6.431043ms
+2014-11-23 17:48:23.087 FurgoPerfecto[6072:4571239] [CDVTimer][TotalPluginStartup] 6.718993ms
+2014-11-23 17:48:23.271 FurgoPerfecto[6072:4571239] Resetting plugins due to page load.
+2014-11-23 17:48:23.722 FurgoPerfecto[6072:4571239] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/2E8A9D6A-8C69-4F2C-8BD1-60F01EBD8C43/FurgoPerfecto.app/www/index.html
+2014-11-23 17:48:26.487 FurgoPerfecto[6072:4571239] locationManager::didFailWithError (null)
+2014-11-23 17:50:18.008 FurgoPerfecto[6380:4572959] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 17:50:18.009 FurgoPerfecto[6380:4572959] Multi-tasking -> Device: YES, App: YES
+2014-11-23 17:50:18.016 FurgoPerfecto[6380:4572959] Unlimited access to network resources
+2014-11-23 17:50:18.020 FurgoPerfecto[6380:4572959] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 17:50:18.298 FurgoPerfecto[6380:4572959] [CDVTimer][file] 3.327012ms
+2014-11-23 17:50:18.298 FurgoPerfecto[6380:4572959] [CDVTimer][TotalPluginStartup] 3.522992ms
+2014-11-23 17:50:18.402 FurgoPerfecto[6380:4572959] Resetting plugins due to page load.
+2014-11-23 17:50:18.857 FurgoPerfecto[6380:4572959] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/E8861666-6B10-4674-92D1-689CB4E3FAE6/FurgoPerfecto.app/www/index.html
+2014-11-23 17:52:49.711 FurgoPerfecto[6697:4574859] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 17:52:49.712 FurgoPerfecto[6697:4574859] Multi-tasking -> Device: YES, App: YES
+2014-11-23 17:52:49.722 FurgoPerfecto[6697:4574859] Unlimited access to network resources
+2014-11-23 17:52:49.727 FurgoPerfecto[6697:4574859] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 17:52:49.993 FurgoPerfecto[6697:4574859] [CDVTimer][file] 7.038951ms
+2014-11-23 17:52:49.993 FurgoPerfecto[6697:4574859] [CDVTimer][TotalPluginStartup] 7.264972ms
+2014-11-23 17:52:50.189 FurgoPerfecto[6697:4574859] Resetting plugins due to page load.
+2014-11-23 17:52:51.545 FurgoPerfecto[6697:4574859] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/B9C2D574-1271-41B0-84B0-456513481987/FurgoPerfecto.app/www/index.html
+2014-11-23 18:02:20.241 FurgoPerfecto[7088:4578613] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 18:02:20.243 FurgoPerfecto[7088:4578613] Multi-tasking -> Device: YES, App: YES
+2014-11-23 18:02:20.252 FurgoPerfecto[7088:4578613] Unlimited access to network resources
+2014-11-23 18:02:20.256 FurgoPerfecto[7088:4578613] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 18:02:20.632 FurgoPerfecto[7088:4578613] [CDVTimer][file] 13.855994ms
+2014-11-23 18:02:20.632 FurgoPerfecto[7088:4578613] [CDVTimer][TotalPluginStartup] 14.054000ms
+2014-11-23 18:02:20.845 FurgoPerfecto[7088:4578613] Resetting plugins due to page load.
+2014-11-23 18:02:21.213 FurgoPerfecto[7088:4578613] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/C9781476-1683-48C1-9165-5A804B46D872/FurgoPerfecto.app/www/index.html
+2014-11-23 18:02:23.800 FurgoPerfecto[7088:4578613] THREAD WARNING: ['Geolocation'] took '14.070801' ms. Plugin should use a background thread.
+2014-11-23 18:16:04.141 FurgoPerfecto[7512:4584577] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 18:16:04.143 FurgoPerfecto[7512:4584577] Multi-tasking -> Device: YES, App: YES
+2014-11-23 18:16:04.152 FurgoPerfecto[7512:4584577] Unlimited access to network resources
+2014-11-23 18:16:04.156 FurgoPerfecto[7512:4584577] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 18:16:04.442 FurgoPerfecto[7512:4584577] [CDVTimer][file] 19.918978ms
+2014-11-23 18:16:04.442 FurgoPerfecto[7512:4584577] [CDVTimer][TotalPluginStartup] 20.127952ms
+2014-11-23 18:16:04.646 FurgoPerfecto[7512:4584577] Resetting plugins due to page load.
+2014-11-23 18:16:05.058 FurgoPerfecto[7512:4584577] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/6F7EDD5D-21F3-40FA-826D-0C3B350D1F2A/FurgoPerfecto.app/www/index.html
+2014-11-23 20:23:52.188 FurgoPerfecto[8274:4600474] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 20:23:52.189 FurgoPerfecto[8274:4600474] Multi-tasking -> Device: YES, App: YES
+2014-11-23 20:23:52.214 FurgoPerfecto[8274:4600474] Unlimited access to network resources
+2014-11-23 20:23:52.218 FurgoPerfecto[8274:4600474] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 20:23:52.586 FurgoPerfecto[8274:4600474] [CDVTimer][file] 12.106001ms
+2014-11-23 20:23:52.586 FurgoPerfecto[8274:4600474] [CDVTimer][TotalPluginStartup] 12.305975ms
+2014-11-23 20:23:52.864 FurgoPerfecto[8274:4600474] Resetting plugins due to page load.
+2014-11-23 20:23:53.287 FurgoPerfecto[8274:4600474] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/1A54BFA9-2088-4209-B19D-A79750186DB8/FurgoPerfecto.app/www/index.html
+2014-11-23 20:23:55.559 FurgoPerfecto[8274:4600474] THREAD WARNING: ['Geolocation'] took '11.297119' ms. Plugin should use a background thread.
+2014-11-23 20:25:29.518 FurgoPerfecto[8530:4602206] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 20:25:29.520 FurgoPerfecto[8530:4602206] Multi-tasking -> Device: YES, App: YES
+2014-11-23 20:25:29.525 FurgoPerfecto[8530:4602206] Unlimited access to network resources
+2014-11-23 20:25:29.528 FurgoPerfecto[8530:4602206] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 20:25:29.770 FurgoPerfecto[8530:4602206] [CDVTimer][file] 5.772054ms
+2014-11-23 20:25:29.770 FurgoPerfecto[8530:4602206] [CDVTimer][TotalPluginStartup] 6.054997ms
+2014-11-23 20:25:29.938 FurgoPerfecto[8530:4602206] Resetting plugins due to page load.
+2014-11-23 20:25:30.460 FurgoPerfecto[8530:4602206] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/4C65E6AD-57AF-4F66-AD1F-42C499C06F39/FurgoPerfecto.app/www/index.html
+2014-11-23 20:31:29.136 FurgoPerfecto[8862:4605825] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 20:31:29.138 FurgoPerfecto[8862:4605825] Multi-tasking -> Device: YES, App: YES
+2014-11-23 20:31:29.144 FurgoPerfecto[8862:4605825] Unlimited access to network resources
+2014-11-23 20:31:29.148 FurgoPerfecto[8862:4605825] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 20:31:29.406 FurgoPerfecto[8862:4605825] [CDVTimer][file] 24.176002ms
+2014-11-23 20:31:29.406 FurgoPerfecto[8862:4605825] [CDVTimer][TotalPluginStartup] 24.394989ms
+2014-11-23 20:31:29.574 FurgoPerfecto[8862:4605825] Resetting plugins due to page load.
+2014-11-23 20:31:31.008 FurgoPerfecto[8862:4605825] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/90E521AD-1A0C-47D2-B0FB-5094DD04FF04/FurgoPerfecto.app/www/index.html
+2014-11-23 21:27:56.462 FurgoPerfecto[11643:4633955] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 21:27:56.464 FurgoPerfecto[11643:4633955] Multi-tasking -> Device: YES, App: YES
+2014-11-23 21:27:56.490 FurgoPerfecto[11643:4633955] Unlimited access to network resources
+2014-11-23 21:27:56.497 FurgoPerfecto[11643:4633955] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 21:27:56.927 FurgoPerfecto[11643:4633955] [CDVTimer][file] 16.571999ms
+2014-11-23 21:27:56.927 FurgoPerfecto[11643:4633955] [CDVTimer][TotalPluginStartup] 16.771019ms
+2014-11-23 21:27:57.249 FurgoPerfecto[11643:4633955] Resetting plugins due to page load.
+2014-11-23 21:27:57.733 FurgoPerfecto[11643:4633955] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/E0A0CFE3-499D-47C3-ACB6-4726D06D5710/FurgoPerfecto.app/www/index.html
+2014-11-23 21:27:57.803 FurgoPerfecto[11643:4633955] THREAD WARNING: ['Geolocation'] took '21.546143' ms. Plugin should use a background thread.
+2014-11-23 21:59:20.190 FurgoPerfecto[12392:4646468] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 21:59:20.192 FurgoPerfecto[12392:4646468] Multi-tasking -> Device: YES, App: YES
+2014-11-23 21:59:20.198 FurgoPerfecto[12392:4646468] Unlimited access to network resources
+2014-11-23 21:59:20.202 FurgoPerfecto[12392:4646468] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 21:59:20.450 FurgoPerfecto[12392:4646468] [CDVTimer][file] 14.886022ms
+2014-11-23 21:59:20.450 FurgoPerfecto[12392:4646468] [CDVTimer][TotalPluginStartup] 15.111029ms
+2014-11-23 21:59:20.654 FurgoPerfecto[12392:4646468] Resetting plugins due to page load.
+2014-11-23 21:59:21.019 FurgoPerfecto[12392:4646468] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/DD593803-1586-41EB-9BD3-91945E930E95/FurgoPerfecto.app/www/index.html
+2014-11-23 22:00:22.586 FurgoPerfecto[12392:4647064] Terminating since there is no system app.
+2014-11-23 22:01:02.661 FurgoPerfecto[12726:4648582] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 22:01:02.663 FurgoPerfecto[12726:4648582] Multi-tasking -> Device: YES, App: YES
+2014-11-23 22:01:02.672 FurgoPerfecto[12726:4648582] Unlimited access to network resources
+2014-11-23 22:01:02.682 FurgoPerfecto[12726:4648582] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 22:01:02.953 FurgoPerfecto[12726:4648582] [CDVTimer][file] 4.781961ms
+2014-11-23 22:01:02.953 FurgoPerfecto[12726:4648582] [CDVTimer][TotalPluginStartup] 5.217016ms
+2014-11-23 22:01:03.039 FurgoPerfecto[12726:4648582] Resetting plugins due to page load.
+2014-11-23 22:01:03.478 FurgoPerfecto[12726:4648582] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/CB462EE4-0419-47EA-BB81-BEE9E66528EC/FurgoPerfecto.app/www/index.html
+2014-11-23 22:01:03.526 FurgoPerfecto[12726:4648582] locationManager::didFailWithError (null)
+2014-11-23 22:24:56.468 FurgoPerfecto[13362:4659741] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 22:24:56.469 FurgoPerfecto[13362:4659741] Multi-tasking -> Device: YES, App: YES
+2014-11-23 22:24:56.475 FurgoPerfecto[13362:4659741] Unlimited access to network resources
+2014-11-23 22:24:56.478 FurgoPerfecto[13362:4659741] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 22:24:56.700 FurgoPerfecto[13362:4659741] [CDVTimer][file] 3.803015ms
+2014-11-23 22:24:56.700 FurgoPerfecto[13362:4659741] [CDVTimer][TotalPluginStartup] 4.043996ms
+2014-11-23 22:24:56.921 FurgoPerfecto[13362:4659741] Resetting plugins due to page load.
+2014-11-23 22:24:57.265 FurgoPerfecto[13362:4659741] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/2CB72BA2-A126-409D-925E-52800FD3B357/FurgoPerfecto.app/www/index.html
+2014-11-23 22:25:25.348 FurgoPerfecto[13641:4661001] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 22:25:25.350 FurgoPerfecto[13641:4661001] Multi-tasking -> Device: YES, App: YES
+2014-11-23 22:25:25.359 FurgoPerfecto[13641:4661001] Unlimited access to network resources
+2014-11-23 22:25:25.364 FurgoPerfecto[13641:4661001] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 22:25:25.638 FurgoPerfecto[13641:4661001] [CDVTimer][file] 3.333032ms
+2014-11-23 22:25:25.638 FurgoPerfecto[13641:4661001] [CDVTimer][TotalPluginStartup] 3.533959ms
+2014-11-23 22:25:25.716 FurgoPerfecto[13641:4661001] Resetting plugins due to page load.
+2014-11-23 22:25:26.153 FurgoPerfecto[13641:4661001] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/E5B2E638-EA43-4CD1-A173-60995AFA153F/FurgoPerfecto.app/www/index.html
+2014-11-23 22:25:26.199 FurgoPerfecto[13641:4661001] THREAD WARNING: ['Geolocation'] took '12.662109' ms. Plugin should use a background thread.
+2014-11-23 22:28:48.096 Furgo Spot[14272:4664282] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Data/Application/1ED50C7F-51B2-48C7-ACB3-200B5183B6D6/Library/Cookies/Cookies.binarycookies
+2014-11-23 22:28:48.269 Furgo Spot[14272:4664282] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 22:28:48.269 Furgo Spot[14272:4664282] Multi-tasking -> Device: YES, App: YES
+2014-11-23 22:28:48.276 Furgo Spot[14272:4664282] Unlimited access to network resources
+2014-11-23 22:28:48.279 Furgo Spot[14272:4664282] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 22:28:48.498 Furgo Spot[14272:4664282] [CDVTimer][file] 8.878946ms
+2014-11-23 22:28:48.498 Furgo Spot[14272:4664282] [CDVTimer][TotalPluginStartup] 9.372056ms
+2014-11-23 22:28:49.508 Furgo Spot[14272:4664282] Resetting plugins due to page load.
+2014-11-23 22:28:50.049 Furgo Spot[14272:4664282] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/7294D8C7-7941-40EE-9DB1-7B8482686439/Furgo%20Spot.app/www/index.html
+2014-11-23 22:31:34.504 Furgo Spot[14578:4666283] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Data/Application/EB5CCE81-2C6F-4EC6-8130-642DE707A989/Library/Cookies/Cookies.binarycookies
+2014-11-23 22:31:34.634 Furgo Spot[14578:4666283] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 22:31:34.635 Furgo Spot[14578:4666283] Multi-tasking -> Device: YES, App: YES
+2014-11-23 22:31:34.643 Furgo Spot[14578:4666283] Unlimited access to network resources
+2014-11-23 22:31:34.647 Furgo Spot[14578:4666283] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 22:31:35.006 Furgo Spot[14578:4666283] [CDVTimer][file] 9.316981ms
+2014-11-23 22:31:35.006 Furgo Spot[14578:4666283] [CDVTimer][TotalPluginStartup] 9.508014ms
+2014-11-23 22:31:35.160 Furgo Spot[14578:4666283] Resetting plugins due to page load.
+2014-11-23 22:31:35.515 Furgo Spot[14578:4666283] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/9A1068CC-670F-498F-8A63-145954612720/Furgo%20Spot.app/www/index.html
+2014-11-23 22:32:34.214 Furgo Spot[14852:4667405] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Data/Application/CA3664BE-F421-4206-B4AB-12C70A37F3DF/Library/Cookies/Cookies.binarycookies
+2014-11-23 22:32:34.354 Furgo Spot[14852:4667405] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-23 22:32:34.354 Furgo Spot[14852:4667405] Multi-tasking -> Device: YES, App: YES
+2014-11-23 22:32:34.364 Furgo Spot[14852:4667405] Unlimited access to network resources
+2014-11-23 22:32:34.370 Furgo Spot[14852:4667405] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-23 22:32:34.704 Furgo Spot[14852:4667405] [CDVTimer][file] 8.755028ms
+2014-11-23 22:32:34.704 Furgo Spot[14852:4667405] [CDVTimer][TotalPluginStartup] 10.251999ms
+2014-11-23 22:32:35.632 Furgo Spot[14852:4667405] Resetting plugins due to page load.
+2014-11-23 22:32:36.099 Furgo Spot[14852:4667405] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/5BF1787B-BE6A-4FD3-9C8C-8CCC4E02E118/data/Containers/Bundle/Application/60300416-F063-4823-8403-B299D1E02182/Furgo%20Spot.app/www/index.html
