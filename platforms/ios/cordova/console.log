@@ -970,3 +970,4 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-12-14 11:21:37.185 Furgo Spot[3584:22030] Finished load of: file:///Users/andresbravog/Library/Developer/CoreSimulator/Devices/BAD8CCAE-8050-4F0A-82A5-E1B86B601B3A/data/Containers/Bundle/Application/8B4609EC-D3C2-431C-9A48-B3F34DB82FC9/Furgo%20Spot.app/www/index.html
 2014-12-14 11:21:37.549 Furgo Spot[3584:22030] THREAD WARNING: ['Geolocation'] took '49.362061' ms. Plugin should use a background thread.
 2014-12-14 11:21:37.554 Furgo Spot[3584:22030] locationManager::didFailWithError (null)
+2014-12-14 11:37:34.394 Furgo Spot[3584:27783] Terminating since there is no system app.

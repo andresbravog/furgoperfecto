@@ -18,7 +18,7 @@ var mapaFurgoperfecto = {
      * Icons
      */
     icons: [
-        'http://www.furgovw.org/mapa_imagenes/furgonetikaiconozo2.png',
+        app.imageFor('www/img/furgo_icon.png'),
         'http://www.furgovw.org/mapa_imagenes/balonrojodu6.png',
         'http://www.furgovw.org/mapa_imagenes/balonverdese8.png',
         '',
