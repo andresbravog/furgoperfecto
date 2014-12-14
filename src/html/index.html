@@ -10,8 +10,18 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="yes" />
     <link rel="stylesheet" href="css/app.min.css" />
     <link rel="stylesheet" href="css/responsive.min.css" />
+    <link rel="stylesheet" href="css/overwrites.min.css" />
     <!-- inject:js -->
     <script src="js/app.min.js"></script>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map_canvas { height: 100% }
+    </style>
+    <script type="text/javascript"
+      src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCN6i462ZJsj2_0spyXRBuwetmzfyGT5yw&sensor=false">
+    </script>
   </head>
   <body ng-app="Furgospot" ng-controller="MainController">
 
@@ -22,18 +32,18 @@
 
       <!-- Navbars -->
 
-      <div class="navbar navbar-app navbar-absolute-top">
+      <!-- <div class="navbar navbar-app navbar-absolute-top">
         <div class="navbar-brand navbar-brand-center" yield-to="title">
           <span>furgospot</span>
         </div>
         <div class="btn-group pull-left">
           <div ng-click="toggle('mainSidebar')" class="btn btn-navbar sidebar-toggle">
-            <i class="fa fa-bars"></i>
+            <i class="fui-list"></i>
           </div>
         </div>
         <div class="btn-group pull-right" yield-to="navbarAction">
         </div>
-      </div>
+      </div> -->
 
       <div class="navbar navbar-app navbar-absolute-bottom">
         <div class="btn-group justified">
