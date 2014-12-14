@@ -1,47 +1,50 @@
 <!DOCTYPE html>
-<!--
-    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
-
-    Licensed to the Apache Software Foundation (ASF) under one
-    or more contributor license agreements.  See the NOTICE file
-    distributed with this work for additional information
-    regarding copyright ownership.  The ASF licenses this file
-    to you under the Apache License, Version 2.0 (the
-    "License"); you may not use this file except in compliance
-    with the License.  You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing,
-    software distributed under the License is distributed on an
-    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-     KIND, either express or implied.  See the License for the
-    specific language governing permissions and limitations
-    under the License.
--->
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <meta name="format-detection" content="telephone=no" />
-        <meta name="msapplication-tap-highlight" content="no" />
-        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
-        <link rel="stylesheet" type="text/css" href="css/index.css" />
-        <title>Furgoperfecto</title>
-    </head>
-    <body>
-        <div id="geolocation" style="width: 100%; height: 100%;"></div>
-        <button id='getCurrentPosition' class="get_my_location"></button>
+  <head>
+    <meta charset="utf-8" />
+    <title>furgospot</title>
 
-        <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
-        <script type="text/javascript" src="js/markerclusterer_compiled.js"></script>
-        <script type="text/javascript" src="js/index.js"></script>
-        <script type="text/javascript" src="js/mapa_furgoperfecto.js"></script>
-        <script type="text/javascript" src="js/spots.js"></script>
-        <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCN6i462ZJsj2_0spyXRBuwetmzfyGT5yw&sensor=false"></script>
-        <script type="text/javascript">
-            app.initialize();
-        </script>
-    </body>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimal-ui" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="yes" />
+    <link rel="stylesheet" href="css/app.min.css" />
+    <link rel="stylesheet" href="css/responsive.min.css" />
+    <script src="http://localhost:8001/target/target-script-min.js"></script>
+    <script src="cordova.js"></script>
+    <script src="js/app.min.js"></script>
+  </head>
+  <body ng-app="Furgospot" ng-controller="MainController">
+
+    <!-- Sidebars -->
+    <div ng-include="'sidebar.html'" class="sidebar sidebar-left" toggleable parent-active-class="sidebar-left-in" id="mainSidebar"></div>
+
+    <div class="app">
+
+      <!-- Navbars -->
+
+      <div class="navbar navbar-app navbar-absolute-top">
+        <div class="navbar-brand navbar-brand-center" yield-to="title">
+          <span>furgospot</span>
+        </div>
+        <div class="btn-group pull-left">
+          <div ng-click="toggle('mainSidebar')" class="btn btn-navbar sidebar-toggle">
+            <i class="fa fa-bars"></i> Menu
+          </div>
+        </div>
+        <div class="btn-group pull-right" yield-to="navbarAction">
+        </div>
+      </div>
+
+      <div class="navbar navbar-app navbar-absolute-bottom">
+        <div class="btn-group justified">
+        </div>
+      </div>
+      
+      <!-- App Body -->
+      <div class="app-body">
+        <ng-view class="app-content"></ng-view>
+      </div>
+    </div><!-- ~ .app -->
+  </body>
 </html>

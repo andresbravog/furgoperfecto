@@ -1,0 +1,17 @@
+{
+  "name": "furgospot",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "1.x",
+    "angular-route": "1.x",
+    "angular-touch": "1.x",
+    "mobile-angular-ui": "~1.1.0-beta.29",
+    "font-awesome": "4.x",
+    "bootstrap": "3.2.0",
+    "flat-ui": "2.2.2"
+  },
+  "resolutions": {
+    "bootstrap-less": "~3.2.0"
+  }
+}
