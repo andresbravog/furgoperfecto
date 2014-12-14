@@ -18,7 +18,8 @@ var config = {
     ],
 
     fonts: [
-      './bower_components/font-awesome/fonts/fontawesome-webfont.*'
+      './bower_components/font-awesome/fonts/fontawesome-webfont.*',
+      './bower_components/flat-ui/dist/fonts/**/*',
     ]
   },
 
