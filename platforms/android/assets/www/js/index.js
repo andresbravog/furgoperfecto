@@ -27,56 +27,33 @@ var app = {
     // 'load', 'deviceready', 'offline', and 'online'.
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
+        // get position listener
+        var position_button = document.getElementById('getCurrentPosition');
+        if (position_button) {
+            position_button.addEventListener('click', mapaFurgoperfecto.centerMapInCurrentPosition, false);
+        };
     },
     // deviceready Event Handler
     //
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-        mapaFurgoperfecto.initializeMap()
-        alert('wtf!');
-        navigator.geolocation.getCurrentPosition(app.onSuccess, app.onError);
-        app.receivedEvent('deviceready');
+        mapaFurgoperfecto.initializeMap();
+        mapaFurgoperfecto.centerMapInCurrentPosition();
     },
-    // Update DOM on a Received Event
-    receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
-
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
-        console.log('Received Event: ' + id);
-    },
-    // Current location was found
-    // Show de maps
-    onSuccess: function(position) {
-        alert('position!');
-        var longitude = position.coords.longitude;
-        var latitude = position.coords.latitude;
-        alert('longitude: ' + longitude + ' \nlatitude: ' + latitude + '\n')
-        var latLong = new google.maps.LatLng(latitude, longitude);
-        // var latLong = new google.maps.LatLng(-41.3996433, 2.151494);
-
-        if( mapaFurgoperfecto.map == undefined ) {
-          alert('not ready!');
-          setTimeout(app.onSuccess(position), 1000);
-          return;
-        };
-
-        var infowindow = new google.maps.InfoWindow({
-           map: mapaFurgoperfecto.map,
-           position: latLong,
-           content: 'Currrent location'
-        });
-
-        mapaFurgoperfecto.map.setCenter(latLong);
-        mapaFurgoperfecto.map.setZoom(16);
-    },
-    // Current location failed
+    // Something Failed
     // alert the error message
     onError: function(error) {
+        // Raise the error
         alert('code: ' + error.code + ' \nmessage: ' + error.message + '\n')
     },
+    // Shows the path both in browser and in mobile
+    //
+    imageFor: function (path) {
+        if(!typeof cordova === 'undefined') {
+            return cordova.file.applicationDirectory + path
+        } else {
+            return '../' + path
+        }
+    }
 };

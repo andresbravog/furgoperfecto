@@ -40,7 +40,8 @@ var mapaFurgoperfecto = {
         var mapOptions = {
             zoom: this.options.zoom,
             center: latlng,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            disableDefaultUI: true
             };
         mapaFurgoperfecto.map = new google.maps.Map(document.getElementById("geolocation"), mapOptions);
 
@@ -123,5 +124,36 @@ var mapaFurgoperfecto = {
         }
       }
         return query_string;
+    },
+    centerMapIn: function(position) {
+        var longitude = position.coords.longitude;
+        var latitude = position.coords.latitude;
+        alert('longitude: ' + longitude + ' \nlatitude: ' + latitude + '\n')
+        var latLong = new google.maps.LatLng(latitude, longitude);
+        // var latLong = new google.maps.LatLng(-41.3996433, 2.151494);
+
+        if( mapaFurgoperfecto.map == undefined ) {
+          setTimeout(app.onSuccess(position), 1000);
+          return;
+        };
+
+        var marker = new google.maps.Marker({
+           map: mapaFurgoperfecto.map,
+           position: latLong,
+           icon: app.imageFor('www/img/position_icon.png')
+        });
+
+        mapaFurgoperfecto.map.setCenter(latLong);
+        mapaFurgoperfecto.map.setZoom(16);
+    },
+    centerMapInCurrentPosition: function() {
+        navigator.geolocation.getCurrentPosition(mapaFurgoperfecto.centerMapIn, mapaFurgoperfecto.onPositionError);
+    },
+    onPositionError: function(error) {
+        // Current location failed
+        // Keep this only fir browser test purposes
+        var position = { coords: { longitude: 2.151494, latitude: 41.3996433 } };
+        mapaFurgoperfecto.centerMapIn(position);
+        return;
     },
 };
